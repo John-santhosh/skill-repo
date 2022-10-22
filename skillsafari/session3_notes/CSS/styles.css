@@ -1,0 +1,51 @@
+h1{
+    background-color: blue;
+    
+    display: inline;
+    padding: 20px ;
+    margin: 20px;
+    border: 2px solid green;
+    
+}
+.example1{
+    margin: 50px;   
+    
+}
+
+.container{
+
+ width: 1000px;
+ background-color: rgb(182, 182, 211);
+
+}
+.row{
+    display: flex;
+    flex-wrap: wrap
+}
+.box1{
+    border: 1px solid black;
+    width: 30%;
+    margin: auto;
+}
+
+.box2 {
+    width: 30%;
+    margin: auto;
+}
+.box2 img {
+    width: 100%; /*the box size is 30% , it will the 100% of the 30%*/
+}
+
+.box3 {
+    width: 45% ;
+    margin: auto;
+}
+.box3_1{
+    
+    width: 50%;
+    margin: auto;
+}
+.box3 img,p{
+    display: ;
+    
+}
