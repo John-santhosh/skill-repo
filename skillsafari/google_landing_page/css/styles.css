@@ -1,0 +1,113 @@
+body{
+    font-family: 'Lato', sans-serif;
+    background-color: white;
+}
+.container{
+    width: 1200px;
+    margin: auto;
+    
+    
+}
+
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+header{
+    margin-top: 0px ;
+    
+   
+    box-shadow: 0px 10px 9px rgb(221, 220, 220);
+}
+.google_logo{
+    margin: 10px 0px;
+    width: 100px;
+    height: auto;
+    
+}
+.logo_support{
+    font-size: 18px;
+    color: rgb(100, 100, 100);
+    margin: 15px 5px;
+}
+.nav_btn{
+  
+    margin: 0px 15px;
+    width: 250px;
+    margin-top: 15px;
+    
+   
+}
+
+.nav_btn a{
+   
+    text-decoration: none;
+    margin: 0px 15px;
+    color: rgb(100, 100, 100);
+    font-size: 13px;
+    
+}
+.nav_btn a:hover{
+    color: black;
+}
+
+.header_btn{
+    width: 480px;
+    margin-left: 250px;
+    margin-top: 15px;  
+ 
+   
+}
+
+.header_btn a{
+    
+    text-decoration: none;
+    padding:10px 20px;
+    font-size: 18px;
+    border-radius: 5px;   
+    margin: 10px 15px;
+   
+}
+
+.header_btn_one{
+    color:dodgerblue;
+}
+.header_btn_two{
+    color: white;
+    background-color: dodgerblue;
+}
+
+.header_btn_one:hover{
+    background-color: rgb(233, 244, 255);
+    color: rgb(13, 66, 119);
+}
+.header_btn_two:hover{
+    background-color: rgb(33, 103, 173);
+}
+
+/* Start of title*/
+
+.title{
+    margin-top: 100px;
+}
+
+.title_one{
+    width: 40%;
+    padding: 25px;
+    
+}
+.title_one h1{
+    font-size: 65px;
+}
+.title_two{
+    width: 50%;
+    margin: auto;
+ 
+}
+
+.title_two video{
+    width: 80% ;
+    margin: 50px;
+   
+    
+}
